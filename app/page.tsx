@@ -93,7 +93,7 @@ export default function Home() {
           </svg>
         </div>
         <h1 style={s.h1}>Mesin Pencari Dokumen</h1>
-        <p style={s.subtitle}>TF-IDF · COSINE SIMILARITY · SASTRAWI · 50 DOKUMEN</p>
+      
       </div>
       <div style={s.searchWrap}>
         <div style={s.searchCard}>
